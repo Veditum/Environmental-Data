@@ -10,11 +10,11 @@ Website : http://parivesh.nic.in/
 ## Download & Installation
 
 **1.** Clone the repository.
-git clone github_url Or you can download the zip file 	and Extract the files 	from there.
+git clone https://github.com/Saurabh-kayasth/Environmental-Data.git Or you can download the zip file 	and Extract the files 	from there.
 
 **2.** Download dependencies (see below)
 
-**3.** Change directory(cd) to /pdf_project folder and run python3 	workingpdf.py from terminal. (make sure you are using python version 	3.6.x or greater)
+**3.** Change directory(cd) to /Environmetal-Data/Src folder and run python3 	workingpdf.py from terminal. (make sure you are using python version 	3.6.x or greater)
 
 ## Installation Guide
 >\>= Python 3.6.x : https://www.python.org/downloads/release/python-360/
