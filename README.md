@@ -16,6 +16,8 @@ git clone https://github.com/Saurabh-kayasth/Environmental-Data.git Or you can d
 
 **3.** Change directory(cd) to /Environmetal-Data/Src folder and run python3 	workingpdf.py from terminal. (make sure you are using python version 	3.6.x or greater)
 
+NOTE : If you're using Mac, some libraries may cause issues while installation. If it happens please try updating python to version 3.9.
+
 ## Installation Guide
 >\>= Python 3.6.x : https://www.python.org/downloads/release/python-360/
 
