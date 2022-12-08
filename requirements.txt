@@ -2,7 +2,7 @@ altgraph==0.17
 asgiref==3.2.3
 beautifulsoup4==4.9.1
 bs4==0.0.1
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 idna==2.10
 PyInstaller==3.6
